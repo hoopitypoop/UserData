@@ -1,27 +1,3 @@
-IL AirTraSys Ter1 MulModFac
-IL BlueLn OHa ForPk
-IL BNSF Aur UniSta
-IL BroLn Kim Loop
-IL CL UniSta IL/IN
-IL GreLn HarLake Ash63rd
-IL GreLnE63 HarLake CotGro
-IL LSBos UniSta IL/IN
-IL LSNew UniSta IL/IN
-IL MDW BigTimRd UniSta
-IL ME MilSta UniPk
-IL MESCh MilSta SChi93rdSt
-IL OraLn Mid Loop
-IL PinkLn 54thCer Loop
-IL RedLn 95thDanRyan Jar
-IL RI LaSSt +DIV_Sub
-IL RI BlueIsl Jol
-IL UPNW OglTraCen Har
-IL UPW Gen OglTraCen
-IL RISub LaSSt BlueIsl
-IL SouShoLn IN/IL MilSta
-
-IN SouShoLn SouBendAir IN/IL
-
 AL I-20 124 133
 AL I-65 261 265B
 AL I-65 340 AL/TN
@@ -939,7 +915,7 @@ NC US52 I-85(76) NC/SC
 NC US64 TN/NC US23/441_S
 NC US64 346 NC22_N
 NC US70 US19/23_N MEMPKRD
-NC US70 US601 I-77
+NC US70 I-77 US601_N
 NC US70 I-85(82) I-40(222B)
 NC US70 US29/220 US70CONN
 NC US70 US70BUSSMI_W US301/39
